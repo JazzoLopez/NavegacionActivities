@@ -1,2 +1,2 @@
 # NavegacionActivities
-&lt;p> Aplicacion hecha en Adroid studio para comprender el concepto de la navegación entre activities y el uso de los intent&lt;/p>
+<p> Aplicacion hecha en Adroid studio para comprender el concepto de la navegación entre activities y el uso de los intent</p>
